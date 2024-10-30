@@ -1,2 +1,2 @@
-exp-proj/bin
-exp-proj/obj
+**/bin
+**/obj
